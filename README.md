@@ -27,7 +27,7 @@ This is a **representative SCADA-style visualization** used purely for demonstra
 - Not a production dashboard  
 - No real-time operational data  
 
-![Smart City Water Treatment & Distribution – Demo View](./screenshots/wtp_scada_demo.png)
+![Smart City Water Treatment & Distribution – Demo View](5.png)
 
 ### What this visualization represents
 - Borewell → Raw Water Tank → Treatment → Overhead Tank → Distribution flow
